@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="1plus1" tvg-name="1plus1" tvg-logo="http://pl.ottg.tv:80/icon/7016.png" group-title="General",1+1
+http://cdn.ottg.tv/7016/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=165
+#EXTINF:-1 tvg-chno="2" tvg-id="1plus1" tvg-name="1plus1" tvg-logo="http://pl.ottg.tv:80/icon/6801.png" group-title="General",1+1 HD
+http://cdn.ottg.tv/6801/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=659
+#EXTINF:-1 tvg-chno="3" tvg-id="1plus1-int" tvg-name="1plus1-int" tvg-logo="http://pl.ottg.tv:80/icon/7224.png" group-title="General",1+1 International
+http://cdn.ottg.tv/7224/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=658
+#EXTINF:-1 tvg-chno="4" tvg-id="112-ua" tvg-name="112-ua" tvg-logo="http://pl.ottg.tv:80/icon/8241.png" group-title="General",112
+http://cdn.ottg.tv/8241/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=527
+#EXTINF:-1 tvg-chno="5" tvg-id="112-ua" tvg-name="112-ua" tvg-logo="http://pl.ottg.tv:80/icon/9340.png" group-title="General",112 Украина HD
+http://cdn.ottg.tv/9340/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=352
+#EXTINF:-1 tvg-chno="6" tvg-id="2plus2" tvg-name="2plus2" tvg-logo="http://pl.ottg.tv:80/icon/7476.png" group-title="General",2+2
+http://cdn.ottg.tv/7476/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=170
+#EXTINF:-1 tvg-chno="7" tvg-id="34-dnepr" tvg-name="34-dnepr" tvg-logo="http://pl.ottg.tv:80/icon/9439.png" group-title="General",34 Канал
+http://cdn.ottg.tv/9439/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=528
+#EXTINF:-1 tvg-chno="8" tvg-id="rti" tvg-name="4 канал" tvg-logo="http://pl.ottg.tv:80/icon/4661.png" group-title="General",4 канал
+http://cdn.ottg.tv/4661/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=529
+#EXTINF:-1 tvg-chno="9" tvg-id="5kanal-ua" tvg-name="5kanal-ua" tvg-logo="http://pl.ottg.tv:80/icon/7806.png" group-title="General",5 канал
+http://cdn.ottg.tv/7806/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=526
+#EXTINF:-1 tvg-chno="10" tvg-id="baby-tv" tvg-name="baby-tv" tvg-logo="http://pl.ottg.tv:80/icon/7114.png" group-title="General",Baby TV
+http://cdn.ottg.tv/7114/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=326
+#EXTINF:-1 tvg-chno="11" tvg-id="bolt" tvg-name="bolt" tvg-logo="http://pl.ottg.tv:80/icon/8597.png" group-title="General",Bolt HD
+http://cdn.ottg.tv/8597/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=392
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="Channel 9 IL" tvg-logo="http://pl.ottg.tv:80/icon/6998.png" group-title="General",Channel 9 IL
+http://cdn.ottg.tv/6998/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=176
+#EXTINF:-1 tvg-chno="13" tvg-id="enter-film" tvg-name="enter-film" tvg-logo="http://pl.ottg.tv:80/icon/3420.png" group-title="General",Enter Film
+http://cdn.ottg.tv/3420/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=531
+#EXTINF:-1 tvg-chno="14" tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="http://pl.ottg.tv:80/icon/6904.png" group-title="General",Eurosport 2
+http://cdn.ottg.tv/6904/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=522
+#EXTINF:-1 tvg-chno="15" tvg-id="fauna" tvg-name="fauna" tvg-logo="http://pl.ottg.tv:80/icon/2317.png" group-title="General",Fauna
+http://cdn.ottg.tv/2317/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=532
+#EXTINF:-1 tvg-chno="16" tvg-id="fightbox-hd" tvg-name="fightbox-hd" tvg-logo="http://pl.ottg.tv:80/icon/3336.png" group-title="General",Fightbox
+http://cdn.ottg.tv/3336/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=633
+#EXTINF:-1 tvg-chno="17" tvg-id="gulli-girl" tvg-name="gulli-girl" tvg-logo="http://pl.ottg.tv:80/icon/3723.png" group-title="General",Gulli Girl
+http://cdn.ottg.tv/3723/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=325
+#EXTINF:-1 tvg-chno="18" tvg-id="ictv-ua" tvg-name="ictv-ua" tvg-logo="http://pl.ottg.tv:80/icon/5886.png" group-title="General",ICTV
+http://cdn.ottg.tv/5886/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=167
+#EXTINF:-1 tvg-chno="19" tvg-id="ictv-ua" tvg-name="ictv-ua" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",ICTV HD
+http://cdn.ottg.tv/9090/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=742
+#EXTINF:-1 tvg-chno="20" tvg-id="lale" tvg-name="lale" tvg-logo="http://pl.ottg.tv:80/icon/6020.png" group-title="General",Lale HD
+http://cdn.ottg.tv/6020/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=533
+#EXTINF:-1 tvg-chno="21" tvg-id="mcm-top" tvg-name="mcm-top" tvg-logo="http://pl.ottg.tv:80/icon/1148.png" group-title="General",MCM TOP
+http://cdn.ottg.tv/1148/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=342
+#EXTINF:-1 tvg-chno="22" tvg-id="mtv-dance" tvg-name="mtv-dance" tvg-logo="http://pl.ottg.tv:80/icon/9197.png" group-title="General",MTV Dance
+http://cdn.ottg.tv/9197/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=338
+#EXTINF:-1 tvg-chno="23" tvg-id="mtv-russia" tvg-name="mtv-russia" tvg-logo="http://pl.ottg.tv:80/icon/9621.png" group-title="General",MTV HD
+http://cdn.ottg.tv/9621/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=337
+#EXTINF:-1 tvg-chno="24" tvg-id="mtv-hits" tvg-name="mtv-hits" tvg-logo="http://pl.ottg.tv:80/icon/5568.png" group-title="General",MTV Hits
+http://cdn.ottg.tv/5568/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=451
+#EXTINF:-1 tvg-chno="25" tvg-id="mtv-live-hd" tvg-name="mtv-live-hd" tvg-logo="http://pl.ottg.tv:80/icon/8299.png" group-title="General",MTV Live HD
+http://cdn.ottg.tv/8299/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=452
+#EXTINF:-1 tvg-chno="26" tvg-id="mtv-rocks" tvg-name="mtv-rocks" tvg-logo="http://pl.ottg.tv:80/icon/2922.png" group-title="General",MTV Rocks
+http://cdn.ottg.tv/2922/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=339
+#EXTINF:-1 tvg-chno="27" tvg-id="musicbox" tvg-name="musicbox" tvg-logo="http://pl.ottg.tv:80/icon/3147.png" group-title="General",Music Box GOLD
+http://cdn.ottg.tv/3147/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=679
+#EXTINF:-1 tvg-chno="28" tvg-id="musicbox-ua-hd" tvg-name="musicbox-ua-hd" tvg-logo="http://pl.ottg.tv:80/icon/9482.png" group-title="General",Musicbox UA
+http://cdn.ottg.tv/9482/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=535
+#EXTINF:-1 tvg-chno="29" tvg-id="newsone-ua" tvg-name="newsone-ua" tvg-logo="http://pl.ottg.tv:80/icon/6294.png" group-title="General",News One HD
+http://cdn.ottg.tv/6294/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=537
+#EXTINF:-1 tvg-chno="30" tvg-id="newsone-ua" tvg-name="newsone-ua" tvg-logo="http://pl.ottg.tv:80/icon/6656.png" group-title="General",News One UA
+http://cdn.ottg.tv/6656/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=642
+#EXTINF:-1 tvg-chno="31" tvg-id="nickelodeon-ru" tvg-name="nickelodeon-ru" tvg-logo="http://pl.ottg.tv:80/icon/2466.png" group-title="General",Nickelodeon
+http://cdn.ottg.tv/2466/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=456
+#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="NIKI Junior HD" tvg-logo="http://pl.ottg.tv:80/icon/5077.png" group-title="General",NIKI Junior HD
+http://cdn.ottg.tv/5077/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=538
+#EXTINF:-1 tvg-chno="33" tvg-id="" tvg-name="NIKI Kids HD" tvg-logo="http://pl.ottg.tv:80/icon/8665.png" group-title="General",NIKI Kids HD
+http://cdn.ottg.tv/8665/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=539
+#EXTINF:-1 tvg-chno="34" tvg-id="oboz-tv" tvg-name="oboz-tv" tvg-logo="http://pl.ottg.tv:80/icon/4917.png" group-title="General",OBOZ TV HD
+http://cdn.ottg.tv/4917/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=540
+#EXTINF:-1 tvg-chno="35" tvg-id="russian-musicbox" tvg-name="russian-musicbox" tvg-logo="http://pl.ottg.tv:80/icon/8131.png" group-title="General",Russian MusicBox HD
+http://cdn.ottg.tv/8131/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=460
+#EXTINF:-1 tvg-chno="36" tvg-id="setanta-sports-plus" tvg-name="setanta-sports-plus" tvg-logo="http://pl.ottg.tv:80/icon/6754.png" group-title="General",Setanta Sports 2
+http://cdn.ottg.tv/6754/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=707
+#EXTINF:-1 tvg-chno="37" tvg-id="star-cinema-ua" tvg-name="star-cinema-ua" tvg-logo="http://pl.ottg.tv:80/icon/5109.png" group-title="General",Star Cinema HD UA
+http://cdn.ottg.tv/5109/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=542
+#EXTINF:-1 tvg-chno="38" tvg-id="star-family-ua" tvg-name="star-family-ua" tvg-logo="http://pl.ottg.tv:80/icon/8048.png" group-title="General",Star Family HD UA
+http://cdn.ottg.tv/8048/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=543
+#EXTINF:-1 tvg-chno="39" tvg-id="ua-donbas" tvg-name="ua-donbas" tvg-logo="http://pl.ottg.tv:80/icon/4816.png" group-title="General",UA:Донбас
+http://cdn.ottg.tv/4816/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=700
+#EXTINF:-1 tvg-chno="40" tvg-id="vh1-classic" tvg-name="vh1-classic" tvg-logo="http://pl.ottg.tv:80/icon/1635.png" group-title="General",VH1 Classic
+http://cdn.ottg.tv/1635/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=340
+#EXTINF:-1 tvg-chno="41" tvg-id="vh1-european" tvg-name="vh1-european" tvg-logo="http://pl.ottg.tv:80/icon/8870.png" group-title="General",VH1 European
+http://cdn.ottg.tv/8870/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=341
+#EXTINF:-1 tvg-chno="42" tvg-id="vintazh" tvg-name="vintazh" tvg-logo="http://pl.ottg.tv:80/icon/9187.png" group-title="General",Vintage TV
+http://cdn.ottg.tv/9187/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=545
+#EXTINF:-1 tvg-chno="43" tvg-id="xsport-ua" tvg-name="xsport-ua" tvg-logo="http://pl.ottg.tv:80/icon/1385.png" group-title="General",XSPORT
+http://cdn.ottg.tv/1385/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=547
+#EXTINF:-1 tvg-chno="44" tvg-id="xsport-ua" tvg-name="xsport-ua" tvg-logo="http://pl.ottg.tv:80/icon/5019.png" group-title="General",Xsport HD
+http://cdn.ottg.tv/5019/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=546
+#EXTINF:-1 tvg-chno="45" tvg-id="zik-ua" tvg-name="zik-ua" tvg-logo="http://pl.ottg.tv:80/icon/5632.png" group-title="General",Zik
+http://cdn.ottg.tv/5632/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=648
+#EXTINF:-1 tvg-chno="46" tvg-id="zik-ua" tvg-name="zik-ua" tvg-logo="http://pl.ottg.tv:80/icon/1297.png" group-title="General",Zik HD
+http://cdn.ottg.tv/1297/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=548
+#EXTINF:-1 tvg-chno="47" tvg-id="zoom-ua" tvg-name="zoom-ua" tvg-logo="http://pl.ottg.tv:80/icon/8065.png" group-title="General",Zoom
+http://cdn.ottg.tv/8065/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=549
+#EXTINF:-1 tvg-chno="48" tvg-id="bigudi" tvg-name="bigudi" tvg-logo="http://pl.ottg.tv:80/icon/7141.png" group-title="General",Бігуді
+http://cdn.ottg.tv/7141/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=551
+#EXTINF:-1 tvg-chno="49" tvg-id="hromadske" tvg-name="hromadske" tvg-logo="http://pl.ottg.tv:80/icon/4097.png" group-title="General",Громадьске ТВ
+http://cdn.ottg.tv/4097/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=552
+#EXTINF:-1 tvg-chno="50" tvg-id="dacha" tvg-name="dacha" tvg-logo="http://pl.ottg.tv:80/icon/5030.png" group-title="General",Дача
+http://cdn.ottg.tv/5030/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=553
+#EXTINF:-1 tvg-chno="51" tvg-id="" tvg-name="Етно HD" tvg-logo="http://pl.ottg.tv:80/icon/7331.png" group-title="General",Етно HD
+http://cdn.ottg.tv/7331/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=554
+#EXTINF:-1 tvg-chno="52" tvg-id="indigo-ua" tvg-name="indigo-ua" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",Индиго ТВ
+http://cdn.ottg.tv/9998/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=739
+#EXTINF:-1 tvg-chno="53" tvg-id="inter-ua" tvg-name="inter-ua" tvg-logo="http://pl.ottg.tv:80/icon/5928.png" group-title="General",Интер
+http://cdn.ottg.tv/5928/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=168
+#EXTINF:-1 tvg-chno="54" tvg-id="inter-plus-ua" tvg-name="inter-plus-ua" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",Интер+
+http://cdn.ottg.tv/6643/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=738
+#EXTINF:-1 tvg-chno="55" tvg-id="k1-ua" tvg-name="k1-ua" tvg-logo="http://pl.ottg.tv:80/icon/4625.png" group-title="General",К1
+http://cdn.ottg.tv/4625/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=172
+#EXTINF:-1 tvg-chno="56" tvg-id="k2-ua" tvg-name="k2-ua" tvg-logo="http://pl.ottg.tv:80/icon/4349.png" group-title="General",К2
+http://cdn.ottg.tv/4349/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=173
+#EXTINF:-1 tvg-chno="57" tvg-id="disney" tvg-name="disney" tvg-logo="http://pl.ottg.tv:80/icon/7528.png" group-title="General",Канал Disney
+http://cdn.ottg.tv/7528/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=306
+#EXTINF:-1 tvg-chno="58" tvg-id="karusel" tvg-name="karusel" tvg-logo="http://pl.ottg.tv:80/icon/7419.png" group-title="General",Карусель
+http://cdn.ottg.tv/7419/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=308
+#EXTINF:-1 tvg-chno="59" tvg-id="kvartal-tv" tvg-name="kvartal-tv" tvg-logo="http://pl.ottg.tv:80/icon/1142.png" group-title="General",Квартал ТВ
+http://cdn.ottg.tv/1142/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=483
+#EXTINF:-1 tvg-chno="60" tvg-id="krt-ua" tvg-name="krt-ua" tvg-logo="http://pl.ottg.tv:80/icon/2488.png" group-title="General",КРТ
+http://cdn.ottg.tv/2488/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=555
+#EXTINF:-1 tvg-chno="61" tvg-id="m1-ua" tvg-name="m1-ua" tvg-logo="http://pl.ottg.tv:80/icon/7349.png" group-title="General",М1
+http://cdn.ottg.tv/7349/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=328
+#EXTINF:-1 tvg-chno="62" tvg-id="m2-ua" tvg-name="m2-ua" tvg-logo="http://pl.ottg.tv:80/icon/1046.png" group-title="General",М2
+http://cdn.ottg.tv/1046/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=556
+#EXTINF:-1 tvg-chno="63" tvg-id="m2-ua" tvg-name="m2-ua" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",М2 HD
+http://cdn.ottg.tv/6388/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=746
+#EXTINF:-1 tvg-chno="64" tvg-id="maxxi-tv" tvg-name="maxxi-tv" tvg-logo="http://pl.ottg.tv:80/icon/8190.png" group-title="General",Максi ТВ
+http://cdn.ottg.tv/8190/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=557
+#EXTINF:-1 tvg-chno="65" tvg-id="maliatko-tv" tvg-name="maliatko-tv" tvg-logo="http://pl.ottg.tv:80/icon/5341.png" group-title="General",Малятко TV
+http://cdn.ottg.tv/5341/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=558
+#EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="Мариупольское ТВ" tvg-logo="http://pl.ottg.tv:80/icon/2187.png" group-title="General",Мариупольское ТВ
+http://cdn.ottg.tv/2187/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=701
+#EXTINF:-1 tvg-chno="67" tvg-id="match-arena" tvg-name="match-arena" tvg-logo="http://pl.ottg.tv:80/icon/6495.png" group-title="General",Матч! Арена
+http://cdn.ottg.tv/6495/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=686
+#EXTINF:-1 tvg-chno="68" tvg-id="match-igra" tvg-name="match-igra" tvg-logo="http://pl.ottg.tv:80/icon/1182.png" group-title="General",Матч! Игра
+http://cdn.ottg.tv/1182/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=623
+#EXTINF:-1 tvg-chno="69" tvg-id="match-planeta" tvg-name="match-planeta" tvg-logo="http://pl.ottg.tv:80/icon/2616.png" group-title="General",Матч! Планета
+http://cdn.ottg.tv/2616/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=490
+#EXTINF:-1 tvg-chno="70" tvg-id="match-premier" tvg-name="match-premier" tvg-logo="http://pl.ottg.tv:80/icon/3863.png" group-title="General",Матч! Премьер
+http://cdn.ottg.tv/3863/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=641
+#EXTINF:-1 tvg-chno="71" tvg-id="match-nash-sport" tvg-name="match-nash-sport" tvg-logo="http://pl.ottg.tv:80/icon/7937.png" group-title="General",Матч! Страна
+http://cdn.ottg.tv/7937/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=278
+#EXTINF:-1 tvg-chno="72" tvg-id="match-tv" tvg-name="match-tv" tvg-logo="http://pl.ottg.tv:80/icon/2575.png" group-title="General",Матч! ТВ
+http://cdn.ottg.tv/2575/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=434
+#EXTINF:-1 tvg-chno="73" tvg-id="match-football1" tvg-name="match-football1" tvg-logo="http://pl.ottg.tv:80/icon/7721.png" group-title="General",Матч! Футбол 1
+http://cdn.ottg.tv/7721/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=638
+#EXTINF:-1 tvg-chno="74" tvg-id="match-football3" tvg-name="match-football3" tvg-logo="http://pl.ottg.tv:80/icon/7197.png" group-title="General",Матч! Футбол 3
+http://cdn.ottg.tv/7197/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=640
+#EXTINF:-1 tvg-chno="75" tvg-id="mega-ua" tvg-name="mega-ua" tvg-logo="http://pl.ottg.tv:80/icon/6269.png" group-title="General",Мега
+http://cdn.ottg.tv/6269/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=559
+#EXTINF:-1 tvg-chno="76" tvg-id="nadia" tvg-name="nadia" tvg-logo="http://pl.ottg.tv:80/icon/7990.png" group-title="General",Надия
+http://cdn.ottg.tv/7990/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=560
+#EXTINF:-1 tvg-chno="77" tvg-id="nauka" tvg-name="nauka" tvg-logo="http://pl.ottg.tv:80/icon/1419.png" group-title="General",Наука
+http://cdn.ottg.tv/1419/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=561
+#EXTINF:-1 tvg-chno="78" tvg-id="nashe-tv" tvg-name="nashe-tv" tvg-logo="http://pl.ottg.tv:80/icon/2872.png" group-title="General",Наше HD
+http://cdn.ottg.tv/2872/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=562
+#EXTINF:-1 tvg-chno="79" tvg-id="nlo-tv-ua" tvg-name="nlo-tv-ua" tvg-logo="http://pl.ottg.tv:80/icon/4728.png" group-title="General",НЛО ТВ
+http://cdn.ottg.tv/4728/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=475
+#EXTINF:-1 tvg-chno="80" tvg-id="novy-kanal-ua" tvg-name="novy-kanal-ua" tvg-logo="http://pl.ottg.tv:80/icon/4256.png" group-title="General",Новый канал
+http://cdn.ottg.tv/4256/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=171
+#EXTINF:-1 tvg-chno="81" tvg-id="novy-kanal-ua" tvg-name="novy-kanal-ua" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",Новый Канал HD
+http://cdn.ottg.tv/9442/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=743
+#EXTINF:-1 tvg-chno="82" tvg-id="ntn-ua" tvg-name="ntn-ua" tvg-logo="http://pl.ottg.tv:80/icon/4544.png" group-title="General",НТН
+http://cdn.ottg.tv/4544/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=175
+#EXTINF:-1 tvg-chno="83" tvg-id="otse" tvg-name="otse" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",Оце
+http://cdn.ottg.tv/9900/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=740
+#EXTINF:-1 tvg-chno="84" tvg-id="otse" tvg-name="otse" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",ОЦЕ HD
+http://cdn.ottg.tv/3486/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=744
+#EXTINF:-1 tvg-chno="85" tvg-id="1auto" tvg-name="1auto" tvg-logo="http://pl.ottg.tv:80/icon/7319.png" group-title="General",Первый Автомобильный
+http://cdn.ottg.tv/7319/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=563
+#EXTINF:-1 tvg-chno="86" tvg-id="ua-pershy" tvg-name="ua-pershy" tvg-logo="http://pl.ottg.tv:80/icon/3990.png" group-title="General",Перший
+http://cdn.ottg.tv/3990/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=564
+#EXTINF:-1 tvg-chno="87" tvg-id="ua-pershy" tvg-name="ua-pershy" tvg-logo="http://pl.ottg.tv:80/icon/9279.png" group-title="General",Перший HD
+http://cdn.ottg.tv/9279/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=544
+#EXTINF:-1 tvg-chno="88" tvg-id="pixel" tvg-name="pixel" tvg-logo="http://pl.ottg.tv:80/icon/5692.png" group-title="General",Пиксель
+http://cdn.ottg.tv/5692/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=565
+#EXTINF:-1 tvg-chno="89" tvg-id="plusplus" tvg-name="plusplus" tvg-logo="http://pl.ottg.tv:80/icon/8454.png" group-title="General",ПлюсПлюс
+http://cdn.ottg.tv/8454/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=566
+#EXTINF:-1 tvg-chno="90" tvg-id="priamyj" tvg-name="priamyj" tvg-logo="http://pl.ottg.tv:80/icon/9847.png" group-title="General",Прямий HD
+http://cdn.ottg.tv/9847/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=567
+#EXTINF:-1 tvg-chno="91" tvg-id="priamyj" tvg-name="priamyj" tvg-logo="http://pl.ottg.tv:80/icon/8658.png" group-title="General",Прямий UA
+http://cdn.ottg.tv/8658/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=550
+#EXTINF:-1 tvg-chno="92" tvg-id="rentv" tvg-name="rentv" tvg-logo="http://pl.ottg.tv:80/icon/6401.png" group-title="General",Рен ТВ
+http://cdn.ottg.tv/6401/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=477
+#EXTINF:-1 tvg-chno="93" tvg-id="rentv" tvg-name="rentv" tvg-logo="http://pl.ottg.tv:80/icon/8082.png" group-title="General",Рен ТВ HD
+http://cdn.ottg.tv/8082/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=111
+#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="Сварожичи" tvg-logo="http://pl.ottg.tv:80/icon/9567.png" group-title="General",Сварожичи
+http://cdn.ottg.tv/9567/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=484
+#EXTINF:-1 tvg-chno="95" tvg-id="sonce-ua" tvg-name="sonce-ua" tvg-logo="http://pl.ottg.tv:80/icon/9412.png" group-title="General",Сонце
+http://cdn.ottg.tv/9412/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=568
+#EXTINF:-1 tvg-chno="96" tvg-id="sport1-ua" tvg-name="sport1-ua" tvg-logo="http://pl.ottg.tv:80/icon/1339.png" group-title="General",Спорт-1
+http://cdn.ottg.tv/1339/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=569
+#EXTINF:-1 tvg-chno="97" tvg-id="sport2-ua" tvg-name="sport2-ua" tvg-logo="http://pl.ottg.tv:80/icon/1427.png" group-title="General",Спорт-2
+http://cdn.ottg.tv/1427/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=570
+#EXTINF:-1 tvg-chno="98" tvg-id="stb-ua" tvg-name="stb-ua" tvg-logo="http://pl.ottg.tv:80/icon/4772.png" group-title="General",СТБ
+http://cdn.ottg.tv/4772/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=169
+#EXTINF:-1 tvg-chno="99" tvg-id="stb-ua" tvg-name="stb-ua" tvg-logo="http://pl.ottg.tv:80/icon/.png" group-title="General",СТБ HD
+http://cdn.ottg.tv/6846/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=741
+#EXTINF:-1 tvg-chno="100" tvg-id="sts" tvg-name="СТС" tvg-logo="http://pl.ottg.tv:80/icon/9716.png" group-title="General",СТС
+http://cdn.ottg.tv/9716/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=106
+#EXTINF:-1 tvg-chno="101" tvg-id="sts" tvg-name="СТС HD" tvg-logo="http://pl.ottg.tv:80/icon/2990.png" group-title="General",СТС HD
+http://cdn.ottg.tv/2990/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=688
+#EXTINF:-1 tvg-chno="102" tvg-id="sts-kids-hd" tvg-name="sts-kids-hd" tvg-logo="http://pl.ottg.tv:80/icon/9954.png" group-title="General",СТС Kids HD
+http://cdn.ottg.tv/9954/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=312
+#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-name="Тера" tvg-logo="http://pl.ottg.tv:80/icon/2370.png" group-title="General",Тера
+http://cdn.ottg.tv/2370/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=573
+#EXTINF:-1 tvg-chno="104" tvg-id="tet-ua" tvg-name="tet-ua" tvg-logo="http://pl.ottg.tv:80/icon/3700.png" group-title="General",ТЕТ
+http://cdn.ottg.tv/3700/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=174
+#EXTINF:-1 tvg-chno="105" tvg-id="tnt" tvg-name="ТНТ" tvg-logo="http://pl.ottg.tv:80/icon/2468.png" group-title="General",ТНТ
+http://cdn.ottg.tv/2468/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=101
+#EXTINF:-1 tvg-chno="106" tvg-id="tnt" tvg-name="ТНТ HD" tvg-logo="http://pl.ottg.tv:80/icon/1337.png" group-title="General",ТНТ HD
+http://cdn.ottg.tv/1337/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=102
+#EXTINF:-1 tvg-chno="107" tvg-id="tnt" tvg-name="ТНТ HD PREMIUM+" tvg-logo="http://pl.ottg.tv:80/icon/5889.png" group-title="General",ТНТ HD PREMIUM+
+http://cdn.ottg.tv/5889/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=644
+#EXTINF:-1 tvg-chno="108" tvg-id="tnt-music" tvg-name="tnt-music" tvg-logo="http://pl.ottg.tv:80/icon/4885.png" group-title="General",ТНТ Music
+http://cdn.ottg.tv/4885/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=343
+#EXTINF:-1 tvg-chno="109" tvg-id="trofey" tvg-name="trofey" tvg-logo="http://pl.ottg.tv:80/icon/9445.png" group-title="General",Трофей HD
+http://cdn.ottg.tv/9445/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=574
+#EXTINF:-1 tvg-chno="110" tvg-id="ukraina" tvg-name="ukraina" tvg-logo="http://pl.ottg.tv:80/icon/7003.png" group-title="General",Украина
+http://cdn.ottg.tv/7003/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=166
+#EXTINF:-1 tvg-chno="111" tvg-id="ukraina" tvg-name="ukraina" tvg-logo="http://pl.ottg.tv:80/icon/5515.png" group-title="General",Украина HD
+http://cdn.ottg.tv/5515/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=572
+#EXTINF:-1 tvg-chno="112" tvg-id="unian-tv" tvg-name="unian-tv" tvg-logo="http://pl.ottg.tv:80/icon/6532.png" group-title="General",Унiан
+http://cdn.ottg.tv/6532/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=575
+#EXTINF:-1 tvg-chno="113" tvg-id="football1-ua" tvg-name="football1-ua" tvg-logo="http://pl.ottg.tv:80/icon/7439.png" group-title="General",Футбол 1 Украина
+http://cdn.ottg.tv/7439/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=636
+#EXTINF:-1 tvg-chno="114" tvg-id="football2-ua" tvg-name="football2-ua" tvg-logo="http://pl.ottg.tv:80/icon/7486.png" group-title="General",Футбол 2 Украина
+http://cdn.ottg.tv/7486/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=637
+#EXTINF:-1 tvg-chno="115" tvg-id="chernomorskaya" tvg-name="chernomorskaya" tvg-logo="http://pl.ottg.tv:80/icon/1612.png" group-title="General",Черноморская
+http://cdn.ottg.tv/1612/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=577
+#EXTINF:-1 tvg-chno="116" tvg-id="chepe-info" tvg-name="chepe-info" tvg-logo="http://pl.ottg.tv:80/icon/5641.png" group-title="General",ЧП.ТВ
+http://cdn.ottg.tv/5641/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=576
+#EXTINF:-1 tvg-chno="117" tvg-id="shanson-tv" tvg-name="shanson-tv" tvg-logo="http://pl.ottg.tv:80/icon/5260.png" group-title="General",Шансон TB
+http://cdn.ottg.tv/5260/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=379
+#EXTINF:-1 tvg-chno="118" tvg-id="espreso-tv" tvg-name="espreso-tv" tvg-logo="http://pl.ottg.tv:80/icon/9440.png" group-title="General",Эспресо TV
+http://cdn.ottg.tv/9440/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=578
+#EXTINF:-1 tvg-chno="119" tvg-id="espreso-tv" tvg-name="espreso-tv" tvg-logo="http://pl.ottg.tv:80/icon/4231.png" group-title="General",Эспресо ТВ HD
+http://cdn.ottg.tv/4231/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=579
