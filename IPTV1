@@ -979,8 +979,6 @@ http://cdn.ottg.tv/4880/video.m3u8?username=Sirotag&password=bomba2020&token=33d
 http://cdn.ottg.tv/5260/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=379&req_host=pkjX3BL
 #EXTINF: -1 tvg-id="nashe-tv" tvg-logo="http://pl.ottg.tv:80/icon/8739.png" group-title="Музыкальные", Наше ТВ
 http://cdn.ottg.tv/8739/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=401&req_host=pkjX3BL
-#EXTINF: -1 tvg-id="la-minor" tvg-logo="http://pl.ottg.tv:80/icon/9843.png" group-title="Музыкальные", Ля-минор
-http://cdn.ottg.tv/9843/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=404&req_host=pkjX3BL
 #EXTINF: -1 tvg-id="zhara" tvg-logo="http://pl.ottg.tv:80/icon/4248.png" group-title="Музыкальные", Жара HD
 http://cdn.ottg.tv/4248/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=416&req_host=pkjX3BL
 #EXTINF: -1 tvg-id="clubbing-tv" tvg-logo="http://pl.ottg.tv:80/icon/7053.png" group-title="Музыкальные", Clubbing TV HD
