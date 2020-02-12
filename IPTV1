@@ -943,8 +943,6 @@ http://cdn.ottg.tv/2229/video.m3u8?username=Sirotag&password=bomba2020&token=33d
 http://cdn.ottg.tv/3533/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=327&req_host=pkjX3BL
 #EXTINF: -1 tvg-id="muztv" tvg-logo="http://pl.ottg.tv:80/icon/1806.png" group-title="Музыкальные", Муз ТВ
 http://cdn.ottg.tv/1806/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=329&req_host=pkjX3BL
-#EXTINF: -1 tvg-id="bridge-tv" tvg-logo="http://pl.ottg.tv:80/icon/1774.png" group-title="Музыкальные", Bridge TV
-http://cdn.ottg.tv/1774/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=330&req_host=pkjX3BL
 #EXTINF: -1 tvg-id="bridge-hd" tvg-logo="http://pl.ottg.tv:80/icon/3413.png" group-title="Музыкальные", Bridge TV Deluxe HD
 http://cdn.ottg.tv/3413/video.m3u8?username=Sirotag&password=bomba2020&token=33de21e5124f6fc39e0b8559ae1365a7&ch_id=331&req_host=pkjX3BL
 #EXTINF: -1 tvg-id="bridge-tv-classic" tvg-logo="http://pl.ottg.tv:80/icon/9334.png" group-title="Музыкальные", Bridge TV Classic
